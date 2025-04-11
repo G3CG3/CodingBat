@@ -44,11 +44,11 @@ Each Java file includes:
 ---
 
 ## Disclaimer
-These solutions are intended for educational purposes only.
+These solutions are intended for educational purposes only.  
 Please use them responsibly and avoid submitting them directly for assessments.
 
 ---
 
 ## Author
-George  
-Java enthusiast & aspiring full-stack developer
+*George*    
+*Java enthusiast & aspiring full-stack developer*
