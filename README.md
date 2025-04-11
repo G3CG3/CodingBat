@@ -42,3 +42,13 @@ Each Java file includes:
 - Reinforce concepts such as loops, conditionals, arrays, and recursion
 
 ---
+
+## Disclaimer
+These solutions are intended for educational purposes only.
+Please use them responsibly and avoid submitting them directly for assessments.
+
+---
+
+## Author
+George
+Java enthusiast & aspiring full-stack developer
