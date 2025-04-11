@@ -30,7 +30,6 @@ The solutions are grouped into folders by section:
 
 Each Java file includes:
 - The name of the exercise
-- The original problem description (as a comment)
 - A clean and correct solution using standard Java
 
 ---
