@@ -50,5 +50,5 @@ Please use them responsibly and avoid submitting them directly for assessments.
 ---
 
 ## Author
-George
+George  
 Java enthusiast & aspiring full-stack developer
